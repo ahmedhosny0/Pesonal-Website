@@ -1,0 +1,41 @@
+body {
+  background-image: url(../img/login.jpg); /* when put it in index add ' '*/
+}
+#frm {
+  border: ridge 2px;
+  width: 600px;
+  height: 200px;
+  margin: 180px auto;
+  background-image: url(../img/tech.jpg);
+  padding: 35px;
+  color: white;
+}
+#btn {
+  color: white;
+  background: #ea0d1e;
+  padding: 9px;
+  margin-left: 70%;
+  margin-top: 0px;
+}
+ul {
+  list-style: none;
+}
+li {
+  display: inline-block;
+}
+#Input {
+  padding: 5px;
+  border: ridge 2px;
+  width: 500px;
+}
+#user {
+  padding: 5px;
+  width: 500px;
+}
+#pass {
+  padding: 5px;
+  width: 500px;
+}
+label {
+  background: #072883;
+}
